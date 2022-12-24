@@ -1,0 +1,21 @@
+VISS_KERMENIS
+miesa, miesiņa, ķermenis, ķermenītis, augums, augumiņš, stāvs, stāviņš, loceklis, loceklītis
+
+KERMENA_DALAS
+krūts, krūtiņa, vēders, vēderiņš, sāns, sāniņš, mugura, muguriņa, klēpis, klēpītis, roka, rociņa, plauksta, plaukstiņa,
+pirksts, pirkstiņš, paduse, padusīte, delna, delniņa, plecs, pleciņš, elkonis, elkonītis, kāja, kājiņa, 
+celis, celītis, ceļgals, ceļgaliņš, pēda, pēdiņa, papēdis, papēdītis, gurns, gurniņš, gūža, gūžiņa, ciska, ciskiņa,
+
+GALVA_UN_DALAS
+galva, galviņa
+kakls, kakliņš
+seja, sejiņa, piere, pierīte, vaigs, vaidziņš, zods, zodiņš
+acs, actiņa, plaksts, plakstiņš, uzacs, uzacīts, uzactiņa
+mute, mutīte, lūpa, lūpiņa, zobs, zobiņš
+auss, austiņa
+deguns, deguntiņš, nāss, nāsīte
+
+CITI_VARDI
+mats, matiņš, cirta, cirtiņa
+elpa, elpiņa, dvaša, dvašiņa, pulss, pulsiņš
+āda, ādiņa
