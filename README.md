@@ -1,6 +1,6 @@
 # latvian_women_short_prose_corpus
 
-English below [click here](#SUMMARY) 
+For English [click here](#SUMMARY).
 
 ## KOPSAVILKUMS
 
