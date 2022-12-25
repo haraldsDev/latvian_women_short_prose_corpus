@@ -6,12 +6,16 @@ English below [ saite ]
 
 Šajā repozitorijā ir apkopoti faili un kods, kas attiecas uz rakstu "xx". Ja jūs neesat šeit nokļuvuši no paša raksta, ar to varat iepazīties ŠEIT (saite uz pdf failu šajā repozitorijā). Tā ir raksta pre-print versija.
 
-**Sieviešu īsprozas korpuss** (259 teksti, 1893—2002) apstrādātā veidā ir pieejams saitē YYYY. Atsevišķie teksti ir lemmatizēti, izmantojot ailab.nlp.lv morfoloģisko tageri. Autortiesību ierobežojumu dēļ pilni teksti nav izlasāmi. Taču ja jums pētnieciskos vai citos pamatotos nolūkos ir vajadzība tekstiem piekļūt, sazinieties, rakstot uz e-pastu haralds.matulis@gmail.com.
+Divi galvenie datu analīzes un datu vizualizācijas faili – **_050_TURPINATA_kermena_vardi_analize.ipynb** un **_70_TURPINATS_VIZUALIZACIJAS_kermena_vardi.ipynb**.
 
-## FAILI
+Mapē **source_files** pieejami visi csv, xlsx, txt faili kas tiek izmantoti kā izejas faili Jupyter Notebook failos, kā arī datu analīzes starprezultāti no šiem Jupyter Notebook faliem.
 
 Mapē **visualizations_pdf_files** pieejami dažādi rezultātu vizualizāciju faili pdf formātā.
-Mapē **source_files** pieejami visi csv, xlsx, txt faili kas tiek izmantoti kā izejas faili Jupyter Notebook failos, kā arī datu analīzes starprezultāti no šiem Jupyter Notebook faliem.
+
+**Sieviešu īsprozas korpuss** (259 teksti, 1893—2002) apstrādātā veidā ir pieejams [saitē] (https://korpuss.lv/id/%C4%AAsprozaS). Atsevišķie teksti ir lemmatizēti, izmantojot ailab.nlp.lv morfoloģisko tageri. Autortiesību ierobežojumu dēļ pilni teksti nav izlasāmi. Taču ja jums pētnieciskos vai citos pamatotos nolūkos ir vajadzība tekstiem piekļūt, sazinieties, rakstot uz e-pastu haralds.matulis@gmail.com.
+
+
+## FAILI
 
 Šeit aprakstīti repozitorijā pieejamie faili, to loģiskā iepazīšanās secībā. Failu sapratnei var noderēt iepazīšanās ar augstākminēto rakstu, kur aprakstīti pētījuma mērķi, analizēti iegūtie starprezultāti un aprakstīti veiktie soļi. Failu nosaukumu numerācija saglabāta no oriģinālā projekta. Faili ir nedaudz patīrīti, taču pamatā tie ir darba faili, tāpēc vietumis informācija var atkārtoties, bet kopumā visam vajadzētu strādāt.
 
